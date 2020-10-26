@@ -1,0 +1,8 @@
+Título - Incluir Item na Lista de Compras
+
+Como um usuário logado no sistema de compras
+Quando acesso a lista "Minha Lista"
+E pressiono o botão "Adicionar Produto"
+E preencho os campos "Nome", "Quantidade", "Medida Quantidade", "Preço", "Categoria" e "Comentário" com os valores "Batata", "100", "gramas", "0,40", "Verduras e Legumes", "Batata Inglesa"
+E pressiono o botão "Salvar"
+Então o sistema retorna à apresentação da lista e apresenta o novo item nela.

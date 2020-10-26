@@ -1,0 +1,10 @@
+#############################################################
+# Paste test factors here.
+# Check the documents for more details.
+# https://github.com/Microsoft/pict/blob/master/doc/pict.md
+#############################################################
+
+Produto: Tomate, Alface, Laranja
+Quantidade: 3,6,12
+Fornecedores: Quitanda, Hortifruti, Extra
+Preco: Barato, Normal, Caro
