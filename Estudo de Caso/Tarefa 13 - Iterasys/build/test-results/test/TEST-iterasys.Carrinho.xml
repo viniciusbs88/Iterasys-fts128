@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="iterasys.Carrinho" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-17T00:45:57" hostname="DESKTOP-QVT9T36" time="20.785">
+  <properties/>
+  <testcase name="incluirCursoEmCarrinho" classname="iterasys.Carrinho" time="20.785"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 26625
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+nov 16, 2020 9:46:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+]]></system-err>
+</testsuite>
