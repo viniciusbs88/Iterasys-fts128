@@ -1,0 +1,4 @@
+[0110/155652.740:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0110/155712.696:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0110/155731.787:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0110/160143.317:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
